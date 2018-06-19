@@ -9,9 +9,12 @@
 <body>
 
   <?php
-    $title = "Myles of Work";
-  ?>
+  //This is gonna display some text
+    echo "hello world - again!";
 
-<h1> <?php echo $title; ?> </h1>
+  /* Adding multiple lines for a comment
+  So here it is..*/
+   ?>
+
 </body>
 </html>
