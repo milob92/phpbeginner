@@ -7,11 +7,12 @@
 <h1>Messing with PHP variables</h1>
 
   <?php
-    //String
-    $name = "Myles ";
 
-    //Int
-    $number = 42;
+    $name = "Myles";
+
+    $num = 42;
+
+    echo $name;
   ?>
 
 </body>
